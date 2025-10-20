@@ -1,6 +1,8 @@
-## ðŸ—“ DiÃ¡rio de Desenvolvimento
+## Diário de Desenvolvimento
 
-###Métrica Implementada
+Métrica Implementada:
+
+
 **Taxa de encurtamento telomérico**
 Telômeros são estruturas protetoras nos cromossomos que encurtam com cada divisão celular.
 Esta métrica calcula a velocidade desse encurtamento ao longo do tempo em culturas de fibroblastos humanos.
@@ -10,3 +12,4 @@ Esta métrica calcula a velocidade desse encurtamento ao longo do tempo em cultur
 Escolhi essa métrica porque é uma das mais simples e tão importantes quanto, quando se trata de envelhecimento celular.
 
 # bio-data-analyzer
+

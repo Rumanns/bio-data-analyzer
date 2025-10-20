@@ -1,9 +1,9 @@
-## ğŸ—“ DiÃ¡rio de Desenvolvimento
+## Diário de Desenvolvimento
 
 ### Dia 1 (01/Abr/2025)
-- âœ… RepositÃ³rio criado
-- âœ… DefiniÃ§Ã£o do propÃ³sito: *RestauraÃ§Ã£o da Humanidade atravÃ©s da anÃ¡lise de dados para combater a senescÃªncia*
+- Repositório criado
+- Definição do propósito: *Restauração da Humanidade através da análise de dados para combater a senescência*
 
 ### Dia 2 (02/Abr/2025)
-- ğŸ”„ Adicionar 1 script Python que calcula uma mÃ©trica simples de dados biolÃ³gicos
+- Adicionar 1 script Python que calcula uma métrica simples de dados biológicos
 
