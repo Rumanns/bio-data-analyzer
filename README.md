@@ -1,9 +1,12 @@
 ## ðŸ—“ DiÃ¡rio de Desenvolvimento
 
-### Dia 1 (01/Abr/2025)
-- âœ… RepositÃ³rio criado
-- âœ… DefiniÃ§Ã£o do propÃ³sito: *RestauraÃ§Ã£o da Humanidade atravÃ©s da anÃ¡lise de dados para combater a senescÃªncia*
+###Métrica Implementada
+**Taxa de encurtamento telomérico**
+Telômeros são estruturas protetoras nos cromossomos que encurtam com cada divisão celular.
+Esta métrica calcula a velocidade desse encurtamento ao longo do tempo em culturas de fibroblastos humanos.
 
-### Dia 2 (02/Abr/2025)
-- ðŸ”„ Adicionar 1 script Python que calcula uma mÃ©trica simples de dados biolÃ³gicos
+**Fonte dos dados:** GSW179849 - Estudo longitudinal de envelhecimento em fibroblastos.
 
+Escolhi essa métrica porque é uma das mais simples e tão importantes quanto, quando se trata de envelhecimento celular.
+
+# bio-data-analyzer
