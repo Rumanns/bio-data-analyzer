@@ -25,5 +25,5 @@ print("Dados de telômeros simulados:")
 print(df.head(10))
 
 # Salva para usar depois
-df.to_csv('telomere_data.csv', index=False)
+df.to_csv('C:\\Users\\jpaiva\\OneDrive - ANP\\Área de Trabalho\\BioInfo\\bio-data-analyzer\\telomere_data.csv', index=False)
 print("\n✅ Dados salvos em 'telomere_data.csv'")
